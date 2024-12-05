@@ -1,5 +1,5 @@
-# Text Encryption and Decryption Tool
-
+# Magpie
+This is a Python project that provides a text encryption and decryption tool using symmetric encryption.
 ## Setup
 ```
 pip install -r requirements.txt
